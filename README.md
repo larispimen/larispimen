@@ -1,16 +1,14 @@
-## Hi there 👋
+## ✨ About me:
 
-<!--
-**larispimen/larispimen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Larissa Pimenta, an aspiring data analyst passionate about technology and data. I have been focusing my studies on SQL, Python, and Power BI. I am curious and always seeking new knowledge to enhance my technical skills and contribute to challenging projects.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+<a href="https://www.linkedin.com/in/larissa-pimenta-568ba91b9/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Main skills:
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd5"/>
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  
+          
+          
